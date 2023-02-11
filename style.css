@@ -9,7 +9,6 @@ body {
 
 .titulo_principal {
   padding: 50px;
-  font-family: cursive;
   color: white;
   text-align: center;
   font-weight: bold;
@@ -46,7 +45,6 @@ body {
 }
 
 .boton {
-  font-family: cursive;
   border-radius: 10px;
   border: none;
   padding: 5px 20px;
